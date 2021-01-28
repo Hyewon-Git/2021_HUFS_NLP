@@ -1,4 +1,3 @@
-#NLP
 ## 02. 자연어처리의 데이터 표현
 ### &nbsp;&nbsp;01) Encoding
 #### &nbsp;&nbsp;&nbsp;- one-hot encoding
