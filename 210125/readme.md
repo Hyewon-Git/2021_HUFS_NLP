@@ -1,4 +1,4 @@
 #NLP 특강
 ## 01.자연어처리 이해하기
 ###   01) 자연어처리 Overview
-###   02) 
+###   02) simple project
