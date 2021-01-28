@@ -3,7 +3,6 @@
 ### &nbsp;&nbsp;01) Encoding
 #### &nbsp;&nbsp;&nbsp;- one-hot encoding
 #### &nbsp;&nbsp;&nbsp;- Embedding
-\n
 ### &nbsp;&nbsp;01) Tokenizer
 #### &nbsp;&nbsp;&nbsp;- Char, word Tokenizer
 #### &nbsp;&nbsp;&nbsp;- BPE
